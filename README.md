@@ -1,4 +1,4 @@
-#BMI Calculator
+# BMI Calculator
 
 In this project we are going to write a python program to calculate the BMI.
 
@@ -16,3 +16,5 @@ We will use the BMI to determine if the user is Overweight, Normal or Underweigh
 This is the last edit
 
 Thank you!
+
+# We have created a branch called new-features
