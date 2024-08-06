@@ -15,8 +15,6 @@ We will use the BMI to determine if the user is Overweight, Normal or Underweigh
 
 This is the last edit
 
-Thank you!
-
-I am done.
-
 # We have created a branch called new-features
+
+Thank you very much. I appreciate!
