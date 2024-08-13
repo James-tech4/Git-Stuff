@@ -15,6 +15,7 @@ We will use the BMI to determine if the user is Overweight, Normal or Underweigh
 
 This is the last edit
 
-# We have created a branch called new-features
+# We have
+created a branch called new-features
 
-Thank you very much. I appreciate!
+Thank you very much. I appreciate! Can I edit this file anymore. Let's see what we can do!
