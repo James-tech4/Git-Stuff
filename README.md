@@ -18,5 +18,4 @@ This is the last edit
 # We have
 created a branch called new-features
 
-Thank you very much. I appreciate! Can I edit this file anymore. Let's see what we can doeeeee
-Additiodddddddddhhdsahcjdfyfdn!
+Thank you very much. I appreciate! Can I edit this file anymore. Let's see what we can
